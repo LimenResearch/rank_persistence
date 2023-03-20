@@ -4,7 +4,7 @@ We showcase an application of Rank-based persistence, a generalization of persis
 
 ## References
 
-[1] Bergomi, M. G., & Vertechi, P. (2019). Rank-based persistence. arXiv preprint arXiv:1905.09151.
+[1] Bergomi, M. G., & Vertechi, P. (2020). Rank-based persistence. Theory and Applications of Categories, 35(9):228–260.
 
 [2] Bergomi, M. G., & Vertechi, P. (2020). Comparing Neural Networks via Generalized Persistence. SIS 2020 - Book of Short Papers.
 
